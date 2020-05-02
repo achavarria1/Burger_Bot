@@ -1,0 +1,1143 @@
+{
+  "intents": [
+    {
+      "intent": "quadruple_beef_patty",
+      "examples": [
+        {
+          "text": "I will take the quadruple patty"
+        },
+        {
+          "text": "I will have a quadruple"
+        },
+        {
+          "text": "quadruple patty please"
+        },
+        {
+          "text": "quadruple beef patty please"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "delivery_time",
+      "examples": [
+        {
+          "text": "How long will it take to arrive?"
+        },
+        {
+          "text": "how long will you take to deliver?"
+        },
+        {
+          "text": "how fast can you deliver?"
+        },
+        {
+          "text": "I'm impatient for the pizza.."
+        },
+        {
+          "text": "Is the burger free after a certain amount of time?"
+        },
+        {
+          "text": "Any time limits?"
+        },
+        {
+          "text": "When will the burger get here?"
+        }
+      ],
+      "description": "How long will it take to arrive?"
+    },
+    {
+      "intent": "bun_regular",
+      "examples": [
+        {
+          "text": "I will have the regular bun"
+        },
+        {
+          "text": "Regular bun please"
+        },
+        {
+          "text": "Can I get a regular bun please?"
+        },
+        {
+          "text": "Regular bun thank you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "mustard_sauce",
+      "examples": [
+        {
+          "text": "I will have mustard"
+        },
+        {
+          "text": "mustard sauce please"
+        },
+        {
+          "text": "Can I have mustard sauce please?"
+        },
+        {
+          "text": "I will have the mustard sauce"
+        },
+        {
+          "text": "mustard sounds good"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "topping_avocado",
+      "examples": [
+        {
+          "text": "Can I add avocado please?"
+        },
+        {
+          "text": "Please add avocado."
+        },
+        {
+          "text": "Can I have avocado please?"
+        },
+        {
+          "text": "Avocado, please"
+        }
+      ],
+      "description": "add avocado"
+    },
+    {
+      "intent": "what_toppings",
+      "examples": [
+        {
+          "text": "Do you have avocados?"
+        },
+        {
+          "text": "what fixings do you offer?"
+        },
+        {
+          "text": "What toppings can I choose"
+        },
+        {
+          "text": "what toppings can i choose?"
+        },
+        {
+          "text": "what toppings do you have?"
+        },
+        {
+          "text": "how can you help me with my burger?"
+        },
+        {
+          "text": "Do you have onions?"
+        },
+        {
+          "text": "Do you have cheese?"
+        },
+        {
+          "text": "Do you have pickles?"
+        },
+        {
+          "text": "Do you have lettuce?"
+        },
+        {
+          "text": "Do you have bacon?"
+        }
+      ],
+      "description": "toppings available"
+    },
+    {
+      "intent": "bun_wheat",
+      "examples": [
+        {
+          "text": "Can I get a wheat bun please?"
+        },
+        {
+          "text": "Wheat bun sounds good"
+        },
+        {
+          "text": "I will have the wheat bun"
+        },
+        {
+          "text": "Wheat bun please"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "triple_beef_patty",
+      "examples": [
+        {
+          "text": "triple patty"
+        },
+        {
+          "text": "triple beef patty please"
+        },
+        {
+          "text": "triple patty please"
+        },
+        {
+          "text": "I will have a triple patty please"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "single_beef_patty",
+      "examples": [
+        {
+          "text": "Single please"
+        },
+        {
+          "text": "Can I have a single beef patty?"
+        },
+        {
+          "text": "Single beef patty please"
+        },
+        {
+          "text": "Single patty please"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "toppings_onions",
+      "examples": [
+        {
+          "text": "Onions, please"
+        },
+        {
+          "text": "How about some onions?"
+        },
+        {
+          "text": "Onions sound great"
+        },
+        {
+          "text": "Please add onions"
+        },
+        {
+          "text": "Can I have onions please?"
+        }
+      ],
+      "description": "add onions"
+    },
+    {
+      "intent": "topping_barbecue_sauce",
+      "examples": [
+        {
+          "text": "I will have some barbecue sauce"
+        },
+        {
+          "text": "Can I have barbecue sauce please?"
+        },
+        {
+          "text": "barbecue sauce please"
+        },
+        {
+          "text": "Some barbecue sauce please"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "topping_lettuce",
+      "examples": [
+        {
+          "text": "Can I have some lettuce please?"
+        },
+        {
+          "text": "I'll have some lettuce please."
+        },
+        {
+          "text": "Lettuce please?"
+        },
+        {
+          "text": "Lettuce would be great."
+        }
+      ],
+      "description": "add some lettuce"
+    },
+    {
+      "intent": "what_capable",
+      "examples": [
+        {
+          "text": "How can I customize my burger?"
+        },
+        {
+          "text": "What are the options?"
+        },
+        {
+          "text": "What can you do?"
+        },
+        {
+          "text": "What can you change?"
+        },
+        {
+          "text": "What options do I have?"
+        },
+        {
+          "text": "What options do I have to order?"
+        },
+        {
+          "text": "yes I want to place an order"
+        },
+        {
+          "text": "What do you offer?"
+        },
+        {
+          "text": "what are you capable of?"
+        }
+      ],
+      "description": "How can I customize my burger?"
+    },
+    {
+      "intent": "ketchup_sauce",
+      "examples": [
+        {
+          "text": "Ketchup please"
+        },
+        {
+          "text": "Ketchup sounds good"
+        },
+        {
+          "text": "I will have the ketchup"
+        },
+        {
+          "text": "Can I have ketchup please?"
+        },
+        {
+          "text": "I will have some ketchup"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "toppings_sauce",
+      "examples": [
+        {
+          "text": "Please add sauce"
+        },
+        {
+          "text": "Sauce, please."
+        },
+        {
+          "text": "Sauce sounds good."
+        },
+        {
+          "text": "Can I have some sauce please?"
+        }
+      ],
+      "description": "add sauce"
+    },
+    {
+      "intent": "complete_convo",
+      "examples": [
+        {
+          "text": "No more burgers thank you."
+        },
+        {
+          "text": "That's it thanks."
+        },
+        {
+          "text": "That's all for today."
+        },
+        {
+          "text": "ok that is all"
+        },
+        {
+          "text": "ok i am done"
+        },
+        {
+          "text": "I'm done."
+        },
+        {
+          "text": "No more thanks."
+        }
+      ],
+      "description": "I'm done."
+    },
+    {
+      "intent": "bacon_extra",
+      "examples": [
+        {
+          "text": "I will have some more bacon"
+        },
+        {
+          "text": "Extra bacon please"
+        },
+        {
+          "text": "Can I get extra bacon?"
+        },
+        {
+          "text": "Can I have extra bacon please?"
+        }
+      ],
+      "description": "extra bacon"
+    },
+    {
+      "intent": "bun_types",
+      "examples": [
+        {
+          "text": "Do you offer different types of buns?"
+        },
+        {
+          "text": "Can I choose a bun?"
+        },
+        {
+          "text": "What buns do you offer?"
+        },
+        {
+          "text": "What type of bun do you have?"
+        },
+        {
+          "text": "what buns?"
+        }
+      ],
+      "description": "What type of buns do you have?"
+    },
+    {
+      "intent": "anything_else",
+      "examples": [
+        {
+          "text": "I am done thank you"
+        },
+        {
+          "text": "That is all for today"
+        },
+        {
+          "text": "No that is it"
+        }
+      ],
+      "description": "Anything else I can help you with?"
+    },
+    {
+      "intent": "what_sauce",
+      "examples": [
+        {
+          "text": "What sauces do you have available?"
+        },
+        {
+          "text": "Do you have barbecue?"
+        },
+        {
+          "text": "Do you have mustard?"
+        },
+        {
+          "text": "Do you have ketchup?"
+        },
+        {
+          "text": "what are my sauce options?"
+        }
+      ],
+      "description": "Can I change the sauce options?"
+    },
+    {
+      "intent": "topping_bacon",
+      "examples": [
+        {
+          "text": "I will have bacon please."
+        },
+        {
+          "text": "Can I have some bacon please?"
+        },
+        {
+          "text": "Bacon, please."
+        },
+        {
+          "text": "Can I get some bacon please."
+        },
+        {
+          "text": "and bacon?"
+        }
+      ],
+      "description": "add bacon"
+    },
+    {
+      "intent": "topping_pickles",
+      "examples": [
+        {
+          "text": "Can I have some pickles please?"
+        },
+        {
+          "text": "Do you have pickles available?"
+        },
+        {
+          "text": "pickles please"
+        },
+        {
+          "text": "I will have some pickles"
+        }
+      ],
+      "description": "add pickles"
+    },
+    {
+      "intent": "barbecue_sauce",
+      "examples": [
+        {
+          "text": "I will have the barbecue sauce"
+        },
+        {
+          "text": "Barbecue sauce please"
+        },
+        {
+          "text": "Can I have some barbecue please"
+        },
+        {
+          "text": "Barbecue sounds good"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "double_beef_patty",
+      "examples": [
+        {
+          "text": "double beef patty please"
+        },
+        {
+          "text": "double patty please"
+        },
+        {
+          "text": "i'll have a double"
+        },
+        {
+          "text": "I will have a double beef patty please"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "topping_cheese",
+      "examples": [
+        {
+          "text": "cheese, thanks"
+        },
+        {
+          "text": "I'll have some cheese"
+        },
+        {
+          "text": "Cheese please"
+        },
+        {
+          "text": "Can you please add cheese?"
+        },
+        {
+          "text": "I'll have the cheese"
+        }
+      ],
+      "description": "Add some cheese"
+    },
+    {
+      "intent": "what_size",
+      "examples": [
+        {
+          "text": "What size hamburger do you have?"
+        },
+        {
+          "text": "What size burger do you offer?"
+        },
+        {
+          "text": "How big are the burgers?"
+        },
+        {
+          "text": "How small are the burgers?"
+        }
+      ],
+      "description": "how about size?"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "topping_num",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1",
+          "synonyms": [
+            "#1",
+            "first",
+            "one",
+            "topping one"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2",
+          "synonyms": [
+            "#2",
+            "second",
+            "topping two"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "3",
+          "synonyms": [
+            "#3",
+            "third",
+            "topping three"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "4",
+          "synonyms": [
+            "#4",
+            "four",
+            "fourth",
+            "topping four"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You got it!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#bacon_extra",
+      "dialog_node": "node_3_1588306702971",
+      "previous_sibling": "node_8_1588309223930"
+    },
+    {
+      "type": "standard",
+      "title": "What are you capable of?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can help you customize your hamburger the following ways: Size, toppings, buns, and sauces."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#what_capable",
+      "dialog_node": "node_7_1588302821790",
+      "previous_sibling": "node_1_1588302965220"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright - Quadruple beef patty it is!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#quadruple_beef_patty",
+      "dialog_node": "node_3_1588306300774",
+      "previous_sibling": "node_2_1588306329382"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright - Double beef patty it is!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#double_beef_patty",
+      "dialog_node": "node_2_1588306329382",
+      "previous_sibling": "node_8_1588306354364"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can choose between 7 toppings max, and you can choose between cheese, bacon, avocado, onion, lettuce, sauce and pickles."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#what_toppings",
+      "dialog_node": "node_3_1588303029691",
+      "previous_sibling": "node_8_1588303257480"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Wheat bun it is!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#bun_wheat",
+      "dialog_node": "node_4_1588309585004",
+      "previous_sibling": "node_3_1588309689525"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We offer wheat and regular buns."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#bun_types",
+      "dialog_node": "node_3_1588309689525",
+      "previous_sibling": "node_4_1588309826776"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "alright - lettuce it is."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#topping_lettuce",
+      "dialog_node": "node_4_1588301973693",
+      "previous_sibling": "node_2_1588302577651"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright - Barbecue it is!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#barbecue_sauce",
+      "dialog_node": "node_5_1588306216608",
+      "previous_sibling": "node_8_1588306277370"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright  - some onions"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#toppings_onions",
+      "dialog_node": "node_3_1588301862560",
+      "previous_sibling": "node_9_1588301898115"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sounds good. Please proceed to the next page where you will see the final price, and set your billing address and shipping details. If we don't get there in 30 minutes it's free!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#complete_convo",
+      "dialog_node": "node_9_1588303325418",
+      "previous_sibling": "node_4_1588303490121"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright - Single beef patty it is!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#single_beef_patty",
+      "dialog_node": "node_8_1588306277370",
+      "previous_sibling": "node_3_1588306300774"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "alright - pickles it is."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#topping_pickles",
+      "dialog_node": "node_2_1588302577651",
+      "previous_sibling": "node_7_1588302821790"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright - some cheese"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#topping_cheese",
+      "dialog_node": "node_9_1588301898115",
+      "previous_sibling": "node_1_1588301924625"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good choice - Regular it is!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#bun_regular",
+      "dialog_node": "node_4_1588309826776",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "alright - some sauce"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#toppings_sauce",
+      "dialog_node": "node_1_1588301924625",
+      "previous_sibling": "node_4_1588301973693"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright - Bacon it is!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#topping_bacon",
+      "dialog_node": "node_3_1588306626784",
+      "previous_sibling": "node_3_1588306702971"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome to Twilio Burger. I'm Watson, may I take your order?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#anything_else",
+      "dialog_node": "node_4_1588303490121",
+      "previous_sibling": "node_3_1588305456398"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can go for barbecue, ketchup or mustard."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#what_sauce",
+      "dialog_node": "node_8_1588303257480",
+      "previous_sibling": "node_9_1588303325418"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can choose between a single, double, triple or quadruple beef patty."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#what_size",
+      "dialog_node": "node_1_1588302965220",
+      "previous_sibling": "node_3_1588303029691"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright - Triple beef patty it is!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#triple_beef_patty",
+      "dialog_node": "node_8_1588306354364",
+      "previous_sibling": "node_3_1588306626784"
+    },
+    {
+      "type": "standard",
+      "title": "#bacon_extra",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "alright - more bacon"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#bacon_extra",
+      "dialog_node": "node_5_1588301395498",
+      "previous_sibling": "node_4_1588301830691"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright - Ketchup it is!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#ketchup_sauce",
+      "dialog_node": "node_8_1588305563576",
+      "previous_sibling": "node_5_1588306216608"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright - some alvocado"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#topping_avocado",
+      "dialog_node": "node_4_1588301830691",
+      "previous_sibling": "node_3_1588301862560"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright - Mustard it is!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#mustard_sauce",
+      "dialog_node": "node_3_1588305456398",
+      "previous_sibling": "node_8_1588305563576"
+    },
+    {
+      "type": "standard",
+      "title": "arrival_time",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We will deliver it within 30 minutes, if not it is free!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#delivery_time",
+      "dialog_node": "node_8_1588309223930",
+      "previous_sibling": "node_4_1588309585004"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi, welcome to Twilio Burgers - I'm Watson, may I take your order?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "BurgerMan",
+  "language": "en",
+  "description": "Watson's Burger"
+}
